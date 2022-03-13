@@ -1,5 +1,5 @@
 👋 Hi, I’m Mansi Chavda
-- 👀 iOS Developer
+- 👩🏻‍💻 iOS Developer
 - 🌱 Explorer
 <!---
 chavdamansi/chavdamansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
